@@ -1,0 +1,44 @@
+.bg {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-image: url("../assets/Rectangle.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+
+.tb {
+  width: 23vw;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 56px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+.names {
+  width: 40vw;
+  height: 100vh;
+}
+
+.card-footer {
+  padding: 0;
+}
+
+.card-text p {
+  margin: 0;
+}
+
+img {
+  width: 4vw;
+  height: 8vh;
+}
+
+h5 {
+  color: #ffc107;
+}

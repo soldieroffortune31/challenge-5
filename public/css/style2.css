@@ -1,0 +1,32 @@
+.bg {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-image: url("../assets/the-games-bg.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+
+.header {
+  width: 80vw;
+  margin: 0;
+  padding: 0;
+  height: 55vh;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+.slide {
+  padding-top: 15px;
+  padding-left: 0;
+}
+
+img {
+  object-fit: cover;
+  height: 65vh;
+}

@@ -1,0 +1,57 @@
+.bg {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../assets/requirements.png");
+  background-size: cover;
+  background-position: center center;
+}
+
+.content {
+  height: 100vh;
+  padding-left: 20vh;
+}
+
+h1 {
+  font-size: 56px;
+}
+
+.systemrow {
+  padding: 0;
+}
+
+.box {
+  position: relative;
+  padding: 0;
+}
+
+.baru {
+  position: absolute;
+  /* width: 40vw; */
+}
+
+.pdd {
+  margin: 0;
+}
+
+h2 {
+  font-size: 24px;
+  color: #ffc107;
+}
+
+.header-space {
+  padding-top: 1vh;
+}
+
+.jarak {
+  padding-top: 6vh;
+}
+
+.bordertb {
+  border: 1px solid gray;
+  width: 1px;
+  height: 2vh;
+}
+
+p {
+  font-size: 18px;
+}

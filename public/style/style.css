@@ -1,0 +1,127 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.bg {
+  background: rgba(156, 131, 95, 1);
+  width: 100vw;
+  height: 100vh;
+  /* padding-top: 20px; */
+  /* position: absolute; */
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  padding: 10px 10px 10px 10px;
+  /* margin: 10px; */
+  width: 40vw;
+  justify-content: space-around;
+}
+
+h1 {
+  font-size: 75x;
+  color: rgba(249, 178, 61, 1);
+}
+
+.content {
+  /* background-color: blue; */
+  /* border: 1px solid black; */
+  width: 70vw;
+  height: 70vh;
+  padding-top: 30px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.user {
+  width: 30vw;
+  /* border: 1px solid red; */
+  height: 65vh;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  font-size: 36px;
+  font-weight: bolder;
+}
+
+.com {
+  width: 30vw;
+  height: 65vh;
+  /* border: 1px solid red; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 36px;
+  font-weight: bolder;
+}
+
+img {
+  height: 12vh;
+  width: 7vw;
+}
+
+.item {
+  /* border: 1px solid blanchedalmond; */
+  border-radius: 10px;
+  width: 10vw;
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.vs {
+  width: 20vw;
+  display: flex;
+  justify-content: center;
+  padding-top: 28vh;
+  /* border: 1px solid black; */
+  /* align-items: center; */
+}
+
+.refresh {
+  width: 9vw;
+  height: 13vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border: 1px solid blue; */
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.bg-item {
+  background-color: #c4c4c4;
+}
+
+.selected-item {
+  background-color: #c4c4c4;
+}
+
+.hasil {
+  /* border: 1px solid black; */
+  width: 15vw;
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  color: rgba(189, 0, 0, 1);
+  font-weight: bolder;
+  font-size: 8em;
+  text-align: center;
+}
+
+.bg-result {
+  background-color: #4c9654;
+}
+
+.bg-draw {
+  background-color: #035b0c;
+}

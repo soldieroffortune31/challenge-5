@@ -1,0 +1,53 @@
+.bg {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../assets/features.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+
+.content {
+  height: 100vh;
+}
+
+.dot {
+  padding-top: 1vh;
+  padding-bottom: 12px;
+  width: 2vw;
+}
+
+.game-suit {
+  padding-top: 10vh;
+}
+
+h3 {
+  font-size: 24px;
+  color: #ffc107;
+}
+
+h1 {
+  font-size: 56px;
+  color: #f8f9fa;
+}
+
+.dot-tbd {
+  padding-top: 5vh;
+  width: 2vw;
+}
+
+.tbd {
+  padding-top: 4vh;
+}
+
+.boxitem {
+  padding-top: 3vh;
+}
+
+txt {
+  font-size: 24px;
+  color: #f8f9fa;
+}
+
+p {
+  color: #f8f9fa;
+}

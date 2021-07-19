@@ -1,0 +1,51 @@
+.bg {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+img {
+  width: 25vw;
+  height: 70vh;
+}
+
+.image {
+  height: 100vh;
+}
+
+.subscribebox {
+  margin: 0;
+  padding: 0;
+}
+
+.btn {
+  height: 58;
+}
+
+p {
+  text-align: justify;
+  color: #f8f9fa;
+}
+
+h1 {
+  font-size: 36px;
+  color: #f8f9fa;
+}
+
+h3 {
+  font-size: 24px;
+  color: #f8f9fa;
+}
+
+.nav {
+  padding: 0;
+}
+
+.garis {
+  border: 1px solid gray;
+  height: 1px;
+  width: 85vw;
+}
